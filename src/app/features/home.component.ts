@@ -6,8 +6,8 @@ import { Component } from "@angular/core";
     imports: [],
     template: 
     `
-    <div>
-        <img src="../../assets/images/bg.jpg" class="w-full">
+    <div class="h-screen">
+        <img src="../../assets/images/bg.jpg" class="w-full h-full object-cover object-[55%]">
     </div>
     `,
     styles: [],

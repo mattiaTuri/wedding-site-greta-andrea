@@ -6,7 +6,7 @@ import { Component } from "@angular/core";
     imports:[],
     template:
     `
-        <div class="container h-full w-full flex mx-auto py-4 px-8"><ng-content></ng-content></div>
+        <div class="container h-full flex mx-auto py-4 px-8"><ng-content></ng-content></div>
     `
 })
 

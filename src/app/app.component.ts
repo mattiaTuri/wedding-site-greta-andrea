@@ -19,8 +19,6 @@ import { HomeComponent } from './features/home.component';
       </app-container>
     </header> 
     <app-home/>
-    <div class="w-full h-[500px] bg-red-400"></div>
-    <div class="w-full h-[500px] bg-green-400">
   <router-outlet />
   <div>
 
