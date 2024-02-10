@@ -10,9 +10,9 @@ import { CommonModule } from "@angular/common";
     `
     <nav class="flex flex-col items-center w-full gap-10">
         <div>
-            <h1>A + G</h1>
+            <h1 class="font-bold text-4xl">A + G</h1>
         </div>
-        <div class="flex gap-10">
+        <div class="flex gap-10 font-bold">
             <a href="#">BENVENUTI!</a>
             <a href="#">TIMELINE</a>
             <a href="#">CONTATTACI</a>

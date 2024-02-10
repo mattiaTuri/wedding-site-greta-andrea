@@ -12,7 +12,7 @@ import { HomeComponent } from './features/home.component';
   template: 
   `
   <div class="flex flex-col">
-    <header class="fixed md:sticky top-0 w-full md:bg-white">
+    <header class="fixed md:sticky top-0 w-full md:bg-white z-10">
       <app-container>
         <app-hamburger-menu class="md:hidden w-full flex justify-end"/>
         <app-navbar class="hidden md:flex md:w-full"/>
